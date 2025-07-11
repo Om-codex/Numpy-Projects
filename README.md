@@ -57,34 +57,7 @@ NumPy-Mini-Projects/
 
 ---
 
-## 🚀 Getting Started
 
-```bash
-git clone https://github.com/your-username/numpy-mini-projects.git
-cd numpy-mini-projects
-Run any project using:
-
-bash
-Copy
-Edit
-python student_marks_analyzer.py
-# or
-python sales_tracker.py
-📚 Learning Outcome
-These projects helped me build a strong foundation in:
-
-Data structuring with NumPy
-
-Real-world-style problem solving
-
-Clean, modular Python code for analysis
-
-💡 Next Steps
-Expand to Pandas + Matplotlib for visualization
-
-Use NumPy in larger data science pipelines
-
-Add more projects (image filtering, sudoku matrix checker, etc.)
 
 🙌 Author
 Om S. Mishra
@@ -94,10 +67,4 @@ Aspiring Data Scientist | Python & NumPy Enthusiast
 ⭐ Show your support
 If you find this helpful, feel free to star ⭐ this repo and share it with your fellow learners!
 
-python
-Copy
-Edit
 
----
-
-Let me know if you'd like a **dark-themed cover image**, a **GitHub description**, or if you're ready to upload it no
