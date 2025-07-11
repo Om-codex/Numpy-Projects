@@ -40,14 +40,7 @@ Simulates weekly sales data for products and performs business analysis.
 
 ---
 
-## 📁 Folder Structure
 
-NumPy-Mini-Projects/
-│
-├── student_marks_analyzer.py # Project 1
-├── sales_tracker.py # Project 2
-├── README.md # This file
----
 
 ## 🛠️ Tools Used
 
