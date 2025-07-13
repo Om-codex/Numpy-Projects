@@ -39,6 +39,43 @@ Simulates weekly sales data for products and performs business analysis.
 - Prepare data for ML pipelines by reshaping
 
 ---
+# ✅ 3.🧩 Matrix Puzzle – Grid Operator (NumPy Mini Project)
+
+A logic-based puzzle simulator using NumPy arrays. This mini project helps strengthen concepts like slicing, indexing, reshaping, Boolean masking, flipping, and more.
+
+---
+
+## 🧠 Objective
+
+To create and manipulate a 5×5 grid (game board) using various NumPy techniques, simulating logical operations used in puzzles, board games, and grid-based computations.
+
+---
+
+## 🔧 Features & Concepts Used
+
+### ✅ Step-by-step operations:
+1. **Create a 5×5 Matrix** using `np.arange` and `reshape`
+2. **Pattern Extraction:**
+   - Center 2×2 and 3×3 blocks
+   - Corners
+   - Both diagonals
+   - Outer border (flat & frame style)
+3. **Flipping the Matrix:**
+   - Horizontally (Left ↔ Right) using `np.fliplr`
+   - Vertically (Top ↕ Bottom) using `np.flipud`
+   - Rotate 180° using `np.rot90` or double flip
+4. **Conditional Logic with Boolean Masking:**
+   - Replace even/odd values
+   - Extract values greater than a threshold
+   - Use `np.where` for conditional replacement
+5. **Flattening & Reshaping:**
+   - Convert grid to 1D, 1×25, and 25×1
+   - Pad and reshape to 3×8 matrix
+   - Reverse using slicing
+
+---
+
+## 💻 Code Structure
 
 
 
